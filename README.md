@@ -1,4 +1,9 @@
-# ContarPalabrasEnDiscursosPresidencialesPer-
+# Palabras más usadas en los discursos presidenciales en el Perú entre 2020-2024 (Con R)
+
+Las palabras más usadas son millón y millones. 
+
+# Al final encontrará el análisis por cada uno de los discursos
+
 ¿Cómo contar las palabras en un discurso presidencial en el Perú? (2020-2024)
 
 install.packages("tidyverse")
