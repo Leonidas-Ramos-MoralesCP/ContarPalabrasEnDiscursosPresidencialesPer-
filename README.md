@@ -1,6 +1,6 @@
 # Palabras más usadas en los discursos presidenciales en el Perú entre 2020-2024 (Con R)
 
-Las palabras más usadas son millón y millones. 
+Las palabras más usadas entre el 2022 y 2024 son mil y millones. Mientras que entre el 2020 y 2021 en el contexto de la pandemia del Covid -19 fue salud. 
 
 # Al final encontrará el análisis por cada uno de los discursos
 
